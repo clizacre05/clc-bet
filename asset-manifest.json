@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clc-bet/static/css/main.cf890fdb.css",
-    "main.js": "/clc-bet/static/js/main.fc4390c4.js",
+    "main.js": "/clc-bet/static/js/main.96e263d3.js",
     "index.html": "/clc-bet/index.html",
     "main.cf890fdb.css.map": "/clc-bet/static/css/main.cf890fdb.css.map",
-    "main.fc4390c4.js.map": "/clc-bet/static/js/main.fc4390c4.js.map"
+    "main.96e263d3.js.map": "/clc-bet/static/js/main.96e263d3.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.fc4390c4.js"
+    "static/js/main.96e263d3.js"
   ]
 }
